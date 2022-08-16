@@ -5,8 +5,8 @@
       "default": true
     }
   ],
-  "name": "SiemensApr14",
+  "name": "DX Demo",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "54.0"
+  "sourceApiVersion": "55.0"
 }
